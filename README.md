@@ -1,4 +1,4 @@
-# 基于 React 的 Violet Blog 博客网站
+# 基于 React 的个人博客网站
 
 技术栈：
 React + JavaScript + SASS + Node.js + Express + Axios + MySQL
