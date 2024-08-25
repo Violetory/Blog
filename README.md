@@ -16,6 +16,8 @@ React + JavaScript + SASS + Node.js + Express + Axios + MySQL
 ![截圖 2024-08-25 00 26 32](https://github.com/user-attachments/assets/ea7457e7-3a84-4dcb-942e-3aca4005756d)
 ![截圖 2024-08-25 00 26 56](https://github.com/user-attachments/assets/a6f24e41-9da3-427e-a434-83fcd6a9f571)
 
+## Available Scripts
+
 In the project directory, you can run:
 
 ### `npm start`
