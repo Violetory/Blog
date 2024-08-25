@@ -1,14 +1,13 @@
-# 基于 React 的个人博客网站
+# PERSONAL BLOG WEBSITE BASED ON REACT
 
-技术栈：
-React + JavaScript + SASS + Node.js + Express + Axios + MySQL
+Technology Stack:<br>React + JavaScript + SASS + Node.js + Express + Axios + MySQL
 
-- 使用可选链实现安全访问
-- 使用 `bcrypt.js` 库对用户密码进行哈希处理，使用 `compareSync` 方法进行用户密码验证
-- 使用 `preventDefault` 方法防止用户点击按钮后自动刷新页面
-- 使用 `JWT` 实现用户身份验证及授权
-- 使用 `Moment` 库实现帖子 From Now 发布日期
-- 使用 `Multer DiskStorage` 实现图片上传功能
+- Use optional chaining to achieve secure access
+- Use the `bcrypt.js` library to hash user passwords and use the `compareSync` method to verify user passwords
+- Use the `preventDefault` method to prevent the page from automatically refreshing after the user clicks the button
+- Use `JWT` to implement user authentication and authorization
+- Use the `Moment` library to implement the post From Now publishing date
+- Use `Multer DiskStorage` to implement the image upload function
 
 ![截圖 2024-08-25 00 23 24](https://github.com/user-attachments/assets/14157fb5-ba9d-4694-af64-fe69c503b02f)
 ![截圖 2024-08-25 00 25 23](https://github.com/user-attachments/assets/7e8fb852-4395-4aee-95d5-95c93056b38e)
@@ -38,5 +37,4 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-> 注：原作者 Lama Dev
-> 此项目仅供面试参考
+> Note: The original author is Lama Dev, This project is for interview reference only.
