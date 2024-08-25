@@ -1,7 +1,6 @@
 # Personal blog website based on React
 
-Technology Stack: 
-React + JavaScript + SASS + Node.js + Express + Axios + MySQL
+Technology Stack:<br>React + JavaScript + SASS + Node.js + Express + Axios + MySQL
 
 - Use optional chaining to achieve secure access
 - Use the `bcrypt.js` library to hash user passwords and use the `compareSync` method to verify user passwords
