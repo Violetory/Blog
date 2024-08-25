@@ -16,5 +16,25 @@ React + JavaScript + SASS + Node.js + Express + Axios + MySQL
 ![截圖 2024-08-25 00 26 32](https://github.com/user-attachments/assets/ea7457e7-3a84-4dcb-942e-3aca4005756d)
 ![截圖 2024-08-25 00 26 56](https://github.com/user-attachments/assets/a6f24e41-9da3-427e-a434-83fcd6a9f571)
 
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
 > 注：原作者 Lama Dev
 > 此项目仅供面试参考
