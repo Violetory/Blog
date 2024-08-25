@@ -1,6 +1,7 @@
 # Personal blog website based on React
 
 Technology Stack:
+
 React + JavaScript + SASS + Node.js + Express + Axios + MySQL
 
 - Use optional chaining to achieve secure access
