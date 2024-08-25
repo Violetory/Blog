@@ -1,5 +1,4 @@
-# Personal blog website based on React
-
+# PERSONAL BLOG WEBSITE BASED ON REACT
 Technology Stack:<br>React + JavaScript + SASS + Node.js + Express + Axios + MySQL
 
 - Use optional chaining to achieve secure access
